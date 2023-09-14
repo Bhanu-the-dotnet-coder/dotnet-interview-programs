@@ -17,7 +17,7 @@ int Division = 0;
 // Console.WriteLine($"Subtraction: {Subtraction}");
 // Console.WriteLine($"Division: {Division}");
 Prime p = new Prime();
-// Console.WriteLine("enter a value");
+//Console.WriteLine("enter a value");
 // string str = Console.ReadLine();
 // p.RemoveDuplicates(str);
 
