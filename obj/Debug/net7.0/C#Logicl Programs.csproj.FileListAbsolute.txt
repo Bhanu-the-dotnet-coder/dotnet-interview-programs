@@ -1,0 +1,15 @@
+E:\Practise\C#Logicl Programs\bin\Debug\net7.0\C#Logicl Programs.exe
+E:\Practise\C#Logicl Programs\bin\Debug\net7.0\C#Logicl Programs.deps.json
+E:\Practise\C#Logicl Programs\bin\Debug\net7.0\C#Logicl Programs.runtimeconfig.json
+E:\Practise\C#Logicl Programs\bin\Debug\net7.0\C#Logicl Programs.dll
+E:\Practise\C#Logicl Programs\bin\Debug\net7.0\C#Logicl Programs.pdb
+E:\Practise\C#Logicl Programs\obj\Debug\net7.0\C#Logicl Programs.csproj.AssemblyReference.cache
+E:\Practise\C#Logicl Programs\obj\Debug\net7.0\C#Logicl Programs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practise\C#Logicl Programs\obj\Debug\net7.0\C#Logicl Programs.AssemblyInfoInputs.cache
+E:\Practise\C#Logicl Programs\obj\Debug\net7.0\C#Logicl Programs.AssemblyInfo.cs
+E:\Practise\C#Logicl Programs\obj\Debug\net7.0\C#Logicl Programs.csproj.CoreCompileInputs.cache
+E:\Practise\C#Logicl Programs\obj\Debug\net7.0\C#Logicl Programs.dll
+E:\Practise\C#Logicl Programs\obj\Debug\net7.0\refint\C#Logicl Programs.dll
+E:\Practise\C#Logicl Programs\obj\Debug\net7.0\C#Logicl Programs.pdb
+E:\Practise\C#Logicl Programs\obj\Debug\net7.0\C#Logicl Programs.genruntimeconfig.cache
+E:\Practise\C#Logicl Programs\obj\Debug\net7.0\ref\C#Logicl Programs.dll
