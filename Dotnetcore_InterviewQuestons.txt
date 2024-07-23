@@ -1,0 +1,60 @@
+1)	What is .NET Core ?
+=>  .NET Core is open source framework for building modern high-performance applications
+    such as web app,mobile app,windows,AOT and Cloud based applications.
+	
+	
+	
+2)  What are the advantages of .NET Core ?
+
+=>   i) Open source 
+     ii) Cross platform support so it can be run on windows,linux and mac
+	 iii).NET Core handles more requests than ASP.NET 
+	 iv) Provides testability and it can deploy on IIS and Cloud
+	 
+	 
+	 
+3) What are the features in .NET Core ?
+
+=> i)Build in support for Dependency Injection 
+   ii)Build in support for Logging framework and it can be extensible
+   iii)Introduced a new fast and cross-platform web server -Kestrel i.e = we can run web app without using a IIS
+   iv)command-line support is their to create,building and running the applications
+   v)It's has good support for asynchronous programming 
+   vi)Their is no Web.config file .We can store custom configurations into an appsetting.json file
+   Vii)It support minimal API 's and Rate limiting
+   
+   
+4) What is Metapackage ?
+
+=> .NET Core introduced Metapackge  which includes all the packages by ASP.NET by code into a single package.
+   It help's us to do fast development as we dont require to includes indivisual ASP.NET core packages.
+   
+5) What is the Startup class ?
+
+=> Startup is the entry point of the ASP.NET Core Applications.THis class contains all configurations related items.
+   .NET 6 onwards Startup file is removed ,and that whatever actions handled in Startup class that moved to program.cs file.
+
+6) What is the middleware ?
+
+=> middleware are the componets that responsible for the request and respons
+   They are just like chained to each other and forms as a pipeline.
+   The incoming request are passed through the pipeline where all the middleware are configured.
+   And middleware can perform an action before passing it to the next middleware    
+   Same for the responce ,they are also passing through middlewares but in reverse order.
+   
+7) What is routing in ASP.NET Core ?
+
+=> Routiing is a functionality that maps incoming request to the appropreiate handler
+   Route can have values (extract from URL),that are used to process the request.
+   i)Coventional Routing
+   ii)Attribute Routiing
+   
+8) How to enable sessions in ASP.NET Core ?
+
+=> First we have include the sessions middleware in pipeline then we can use that in any where poject.
+
+9) What are the various types of json files that are available in ASP.NET Core ?
+
+=> they are i)  Global.json
+            ii) appsetting.json
+			iii)launchsetting.json
